@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf karibu
+rm -rf example

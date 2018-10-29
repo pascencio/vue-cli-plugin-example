@@ -1,11 +1,11 @@
 #!/bin/bash
-if [ -d karibu ];
+if [ -d example ];
 then
     ./clean.sh
 fi
 export DEBUG=*
-vue create -n -d karibu
-cd karibu
+vue create -n -d example
+cd example
 yarn add file:../.. --dev
 clear
 vue invoke example

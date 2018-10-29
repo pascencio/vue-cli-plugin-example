@@ -1,5 +1,7 @@
 .vscode
+node_modules
 sandbox/*
+*.lock
 !sandbox/.gitkeep
 !sandbox/clean.sh
 !sandbox/run.sh
