@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-example",
+  "version": "1.0.0",
+  "description": "Plugin development example package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascencio/vue-cli-plugin-dotenv.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "dotenv"
+  ],
+  "author": "Patricio Ascencio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pascencio/vue-cli-plugin-dotenv/issues"
+  },
+  "homepage": "https://github.com/pascencio/vue-cli-plugin-dotenv#readme"
+}
